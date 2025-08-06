@@ -1,20 +1,3 @@
-aaaaaa
-bbbb
-<<<<<<< HEAD
-ccccc
-ddddd
-eeeee
-=======
-ccccc
->>>>>>> 28b984aebad200f4a90d79b35ffa637476368ddb
-dddd
-eeeeddd
-fffff
-gggg
-hhhh
-<<<<<<< HEAD
-jjjjj
-=======
-jj
->>>>>>> 9c88fe2728e495e5a12852aa9902f84517ff541f
-kkkk
+bfile
+
+aa
